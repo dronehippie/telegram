@@ -1,0 +1,6 @@
+title: telegram
+description: Drone plugin provided by Webhippie
+baseurl: /telegram
+
+email: mail@webhippie.de
+theme: jekyll-theme-cayman
